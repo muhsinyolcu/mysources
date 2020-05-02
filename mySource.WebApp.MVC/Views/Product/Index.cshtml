@@ -5,7 +5,9 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<table>
+<br />
+<h1>Export To Excel</h1>
+<table style="background-color: white; width: 100%; border:1px;">
     <tr>
         <th>Id</th>
         <th>Name</th>
@@ -21,3 +23,7 @@
     }
 
 </table>
+@using (Html.BeginForm("ExportToExcelMethod1", "Product", FormMethod.Post))
+{
+    <input type="submit" value="Export 1" />
+}
