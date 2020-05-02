@@ -84,3 +84,11 @@ C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\Do
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\Unity.Abstractions.pdb
 C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\Unity.Container.pdb
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\ClosedXML.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\DocumentFormat.OpenXml.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\ExcelNumberFormat.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\System.IO.Packaging.dll
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\ClosedXML.pdb
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\ClosedXML.xml
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\DocumentFormat.OpenXml.xml
+C:\Users\muhsi\OneDrive\Masaüstü\Desktop\Projects\MuhsinsProjects\Creations\DotnetCore\mySources\mySources\mySource.WebApp.MVC\bin\ExcelNumberFormat.xml
